@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our intoduction slide!"
 ---
-Your text
+This slide will breifly explain what the slide is about
 Use the left arrow to go back!
